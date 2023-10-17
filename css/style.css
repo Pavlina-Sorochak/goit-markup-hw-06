@@ -863,6 +863,10 @@ img {
     letter-spacing: 0.72px;
     max-width: 213px;
   }
+  .page-nav,
+  .address {
+    display: none;
+  }
 
   .hero-button {
     display: flex;
@@ -898,7 +902,7 @@ img {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 48px;
+    gap: 72px;
   }
 
   .our-team-list {
@@ -1037,7 +1041,7 @@ img {
     width: 356px;
   }
   .our-portfolio-list {
-    gap: 72px 48px;
+    gap: 72px 24px;
   }
 
   .container-footer {
