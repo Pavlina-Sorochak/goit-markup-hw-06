@@ -915,7 +915,6 @@ img {
 
   .our-portfolio-list-item {
     width: 288px;
-    flex-basis: calc(100% / 1);
   }
 
   .paragraf-subscribe {
@@ -1036,7 +1035,6 @@ img {
 
   .our-portfolio-list-item {
     width: 356px;
-    flex-basis: calc(100% / 3);
   }
   .our-portfolio-list {
     gap: 72px 48px;
