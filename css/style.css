@@ -985,7 +985,12 @@ img {
   .address {
     display: flex;
   }
-
+  .page-nav {
+    display: block;
+  }
+  .page-nav {
+    display: inline-flex;
+  }
   .hero-button {
     display: none;
   }
@@ -1085,12 +1090,16 @@ img {
   .feature-item {
     display: flex;
   }
-
+  .page-nav {
+    display: block;
+  }
   .feature-list {
     flex-wrap: nowrap;
     gap: 24px;
   }
-
+  .page-nav {
+    display: inline-flex;
+  }
   .section {
     padding: 120px 0;
   }
