@@ -854,8 +854,6 @@ img {
   }
   .container-header {
     display: flex;
-    margin-left: 0;
-    height: 56px;
   }
 
   .order-img {
@@ -1022,6 +1020,7 @@ img {
     font-size: 12px;
     font-weight: 400;
     line-height: 117%;
+    padding: 0px;
   }
 
   .contact {
